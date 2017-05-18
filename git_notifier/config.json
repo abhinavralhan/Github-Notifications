@@ -1,0 +1,12 @@
+{
+    "github": {
+        "access_token": "f6b187df03252b3f4ef1c1f3c2303d7aa59e3395"
+    },
+    "twilio": {
+        "token": "d2a7248416c2a7c5ff561e68f5b5a0e2",
+        "from_number": "+12567120079",
+        "to_number": "+919560385270",
+        "sid": "AC3f1d0f30d02cada5c20762c8adb192fb"
+    },
+    
+}
